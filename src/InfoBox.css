@@ -1,0 +1,30 @@
+.InfoBox {
+  text-align: center;
+}
+.cardContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.MainDiv {
+  text-align: left; 
+  margin-top: 15px;
+  display: inline;
+}
+
+.MainDiv div {
+  margin-bottom: 10px; 
+  font-size: 1rem; 
+  color: #444;
+}
+
+.MainDiv i {
+  color: #007bff; 
+  font-weight: 500;
+}
+
+.cityName {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+}
